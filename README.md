@@ -1,11 +1,11 @@
 # Decrypting Virtual Private Network Traffic
 
-<h2> Description <h2>
+<h2> Description </h2>
 This project demostrates a critical vulnerability in Virtual Private Networks (VPN's) that can be exploited on a local network. It was conducted within an isolated virtual network that was meant to replicate a real-world attack. The exploit that was used on this virtual machine was CVE-2024-3661 aka TunnelVision which can redirect or manipulate VPN traffic and expose sensitive data and information to unauthorized users.
   
 
 
-<h2> Environment Used <h2>
+<h2> Environment Used </h2>
   
 - <b>Ubuntu Server 22.04</b>
 - <b>Windows 10 Pro</b>
