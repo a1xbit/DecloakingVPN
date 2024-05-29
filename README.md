@@ -10,6 +10,7 @@ This project demostrates a critical vulnerability in Virtual Private Networks (V
 - <b>Ubuntu Server 22.04</b>
 - <b>Windows 10 Pro</b>
 - <b>Pop OS 22.04</b>
+- <b>ProtonVPN Free Account</b>
 
 # Setup Internal Network & Network Adapter in VM Settings
 
@@ -63,7 +64,7 @@ This project demostrates a critical vulnerability in Virtual Private Networks (V
 
 # Rogue Admin Lab
 
-<h2> Connect to VPN </h2>
+<h2> Connect to VPN via ProtonVPN Free Account</h2>
 
 <img width="311" alt="Screenshot 2024-05-28 at 8 43 28 PM" src="https://github.com/a1xbit/DecloakingVPN/assets/119477838/55e5441c-72a3-41e1-b57e-f2f3b6544ad1">
 
