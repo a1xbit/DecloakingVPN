@@ -5,7 +5,7 @@ This project demostrates a critical vulnerability in Virtual Private Networks (V
   
 
 
-<h2> Environment Used </h2>
+<h2> Testing Environment Used </h2>
   
 - <b>Ubuntu Server 22.04</b>
 - <b>Windows 10 Pro</b>
